@@ -10,8 +10,6 @@ theme = "dario"
   description = "A description of your site" # a description of your site that will be used in the meta tags
 
   [params.homeInfoParams]
-    Title = "Welcome to the 
-    
-    NONE PLACE" # the text to display on the "/" homepage
-    Content = "连续半天没有洗澡、忘记喝水、懒得把枯萎的花扔进垃圾桶，只是为了搭建一个blog网站？我（或许）会持续更新，无聊时打开这个神秘小网站，看看有没有神奇的事情发生吧！"
+    Title = "Welcome to the NONE PLACE" # the text to display on the "/" homepage
+    Content = "这是什么地方？我要写出一些疯狂的文字吗？"
     Description = "A minimal web log."
