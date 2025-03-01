@@ -1,0 +1,15 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "My New Hugo Site?"
+theme = "dario"
+
+
+
+[params]
+  author = "lpy" # the author of the site
+  description = "A description of your site" # a description of your site that will be used in the meta tags
+
+  [params.homeInfoParams]
+    Title = "Home Page Text" # the text to display on the "/" homepage
+    Content = "This is a minimal web log inspired by Dario Amodei's personal [website](https://darioamodei.com/). Add some more text here that will be displayed on your homepage (you can use markdown)."
+    Description = "A minimal web log."
