@@ -11,5 +11,5 @@ theme = "dario"
 
   [params.homeInfoParams]
     Title = "Welcome to the   NONE   PLACE" # the text to display on the "/" homepage
-    Content = "连续半天没有洗澡，忘记喝水，懒得把枯萎的花扔进垃圾桶，而这一切都是为了搭建这个blog网站。我（或许）会持续更新，（或许）会搭建配套网站，无聊时点进来看看有没有新的文字吧！"
+    Content = "听说有人连续半天没有洗澡、忘记喝水、懒得把枯萎的花扔进垃圾桶，只是为了搭建一个blog网站？我（或许）会持续更新，（或许）会搭建配套网站。无聊时打开这个神秘小网站，看看有没有神奇的事情发生吧！"
     Description = "A minimal web log."
