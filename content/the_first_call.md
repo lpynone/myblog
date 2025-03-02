@@ -11,9 +11,6 @@ title = 'the first call'
 
 追问我们究竟该追问什么
 
-
-
-
 惶恐之中猛然发觉
 
 原来我们早已被抛进这个世界
@@ -22,9 +19,6 @@ title = 'the first call'
 
 东张西望的、等待着被抹平的褶皱
 
-
-
-
 难道我们只能have fun，
 
 忙碌或无聊，消磨时光
@@ -32,9 +26,6 @@ title = 'the first call'
 一直到生命的尽头？
 
 我不知道
-
-
-
 
 欢迎来到none blog
 
