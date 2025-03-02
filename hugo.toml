@@ -1,7 +1,7 @@
 baseURL = "https://atnone.com/"
 languageCode = "en-us"
 title = "None Blog"
-theme = "hugo-texify3"
+theme = "dario"
 
 
 
