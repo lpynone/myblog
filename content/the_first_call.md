@@ -12,6 +12,7 @@ title = 'the first call'
 追问我们究竟该追问什么
 
 
+
 惶恐之中猛然发觉
 
 原来我们早已被抛进这个世界
@@ -19,6 +20,7 @@ title = 'the first call'
 我的朋友，我们都是布上的褶皱
 
 东张西望的、等待着被抹平的褶皱
+
 
 
 难道我们只能have fun，
@@ -30,7 +32,10 @@ title = 'the first call'
 我不知道
 
 
+
 欢迎来到none blog
 
 这里记录着我对抗虚无的一些方式
+
+
 
