@@ -11,5 +11,6 @@ theme = "dario"
 
   [params.homeInfoParams]
     Title = "Welcome to the NONE" # the text to display on the "/" homepage
-    Content = "这是什么地方？\n我要写出一些疯狂的文字吗？"
+    Content = """这是什么地方？
+    我要写出一些疯狂的文字吗？"""
     Description = "A minimal web log."
