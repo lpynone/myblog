@@ -11,6 +11,5 @@ theme = "dario"
 
   [params.homeInfoParams]
     Title = "Welcome to the NONE" # the text to display on the "/" homepage
-    Content = """这是什么地方？
-    我要写出一些疯狂的文字吗？"""
+    Content = "你好呀，亲爱的朋友，这里是有一些东西的none blog。我想，很多人都会在某些时刻捕捉到————弥漫在空气中的虚无感。或是独处时，或是困倦时。我倾向于认为虚无才是生命的底色，而我们每一个人都在有意识或无意识地，为活着创造原因，以此来对抗虚无————生命的黑色背景。而你，我的朋友，你和天空、电影、绿植、美食一样，是我此时此刻选择活着的原因之一。"
     Description = "A minimal web log."
