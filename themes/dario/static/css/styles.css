@@ -584,3 +584,25 @@ footer {
   font-style: italic;
   width: 100%;
 }
+
+.post-item {
+    margin-bottom: 10px; /* 给每个条目一些底部间距 */
+}
+
+.post-title-container {
+    display: flex;
+    justify-content: space-between; /* 使标题和日期分开，日期到最右边 */
+    align-items: center; /* 垂直居中对齐标题和日期 */
+}
+
+.post-title {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.post-date {
+    font-size: 0.9em;
+    color: #767676;
+}
+
+
