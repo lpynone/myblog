@@ -607,3 +607,9 @@ footer {
   color: #0066cc; /* 鼠标悬停时的标题颜色 */
 }
 
+h1, h2, h3 {
+  border-bottom: none; /* 移除标题下方的横线 */
+  text-decoration: none; /* 移除任何文本装饰（如下划线） */
+}
+
+
