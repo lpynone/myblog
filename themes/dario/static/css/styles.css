@@ -594,17 +594,13 @@ footer {
 .post-date {
   min-width: 100px; /* 让日期固定宽度，推开标题 */
   font-size: 14px; /* 日期的字体大小 */
-  color: var(--subscribe-form-text); /* 使用文本颜色变量 */
+  color: var(--text-color); /* 使用文本颜色变量 */
 }
 
 .post-item a {
   font-size: 18px; /* 标题的字体大小 */
   text-decoration: none;
-  color: var(--subscribe-form-text);
-}
-
-.post-item a:hover {
-  color: #006600; /* 鼠标悬停时的标题颜色 */
+  color: var(--text-color);
 }
 
 
