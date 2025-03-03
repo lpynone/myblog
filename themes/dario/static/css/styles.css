@@ -608,13 +608,13 @@ footer {
 }
 
 /* 深色模式 */
-.dark-mode .post-date {
+.darkmode .post-date {
   color: #bbb;
 }
-.dark-mode .post-item a {
+.darkmode .post-item a {
   color: #ddd;
 }
-.dark-mode .post-item a:hover {
+.darkmode .post-item a:hover {
   color: #66aaff;
 }
 
