@@ -585,4 +585,23 @@ footer {
   width: 100%;
 }
 
+.post-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem; /* 每篇文章之间的间距 */
+}
 
+.post-date {
+  margin-right: 20px; /* 增加日期和标题之间的间距 */
+  font-size: 14px; /* 日期的字体大小 */
+  color: #999; /* 日期的颜色 */
+}
+
+.post-item a {
+  font-size: 18px; /* 标题的字体大小 */
+  text-decoration: none;
+  color: #333;
+}
+
+.post-item a:hover {
+  color: #0066cc; /* 鼠标悬停时的标题颜色 */
