@@ -602,3 +602,8 @@ footer {
   text-decoration: none;
   color: var(--text-color);
 }
+
+.post-item a:hover {
+  color: var(--focus-color);
+}
+
