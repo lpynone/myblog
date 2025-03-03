@@ -592,7 +592,7 @@ footer {
 }
 
 .post-date {
-  margin-right: 50px; /* 日期和标题之间的间距 */
+  margin-right: 100px; /* 日期和标题之间的间距 */
   font-size: 14px; /* 可以调整日期的字体大小 */
   color: #999; /* 日期的颜色 */
 }
