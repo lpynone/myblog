@@ -607,4 +607,15 @@ footer {
   color: #0066cc; /* 鼠标悬停时的标题颜色 */
 }
 
+/* 深色模式 */
+.dark-mode .post-date {
+  color: #bbb;
+}
+.dark-mode .post-item a {
+  color: #ddd;
+}
+.dark-mode .post-item a:hover {
+  color: #66aaff;
+}
+
 
