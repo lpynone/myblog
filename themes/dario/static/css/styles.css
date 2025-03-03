@@ -594,28 +594,18 @@ footer {
 .post-date {
   min-width: 100px; /* 让日期固定宽度，推开标题 */
   font-size: 14px; /* 日期的字体大小 */
-  color: #999; /* 日期的颜色 */
+  color: var(--text-color); /* 使用文本颜色变量 */
 }
 
 .post-item a {
   font-size: 18px; /* 标题的字体大小 */
   text-decoration: none;
-  color: #333;
+  color: var(--text-color);
 }
 
 .post-item a:hover {
   color: #0066cc; /* 鼠标悬停时的标题颜色 */
 }
 
-/* 深色模式 */
-.darkmode .post-date {
-  color: #bbb;
-}
-.darkmode .post-item a {
-  color: #ddd;
-}
-.darkmode .post-item a:hover {
-  color: #66aaff;
-}
 
 
