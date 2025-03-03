@@ -602,8 +602,3 @@ footer {
   text-decoration: none;
   color: var(--text-color);
 }
-
-.post-item a:hover {
-  color: var(--hover-color); /* 使用悬停颜色变量 */
-}
-
