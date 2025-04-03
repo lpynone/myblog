@@ -9,7 +9,7 @@ title = 'the first call'
 这里记录着我对抗虚无的一些方式
 
 ![ ](/images/hole.png)
-<img src="/images/hole.png" alt="hole" width="300">
+<img src="/images/hole.png" alt="hole" width="100">
 
 
 
