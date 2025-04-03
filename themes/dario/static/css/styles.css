@@ -599,7 +599,7 @@ footer {
 
 .post-item a {
   font-size: 18px; /* 标题的字体大小 */
-  font-weight: bold; /* 加粗标题 *
+  font-weight: bold; /* 加粗标题 */
   text-decoration: none;
   color: var(--text-color);
 }
@@ -607,4 +607,15 @@ footer {
 .post-item a:hover {
   color: var(--focus-color);
 }
+
+.small-img {
+  width: 300px;
+  height: auto; /* 保持图片比例 */
+}
+
+
+
+
+
+
 
