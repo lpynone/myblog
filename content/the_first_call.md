@@ -8,7 +8,7 @@ title = 'the first call'
 
 这里记录着我对抗虚无的一些方式
 
-!(images/洞.png)
+! (images/洞.png)
 
 
 
