@@ -608,13 +608,6 @@ footer {
   color: var(--focus-color);
 }
 
-.small-img {
-  width: 300px;
-  height: auto; /* 保持图片比例 */
-}
-
-![ ](/images/hole.png){ .small-img }
-
 
 
 
