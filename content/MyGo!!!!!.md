@@ -1,6 +1,6 @@
 +++
 date = '2025-03-01T10:39:51+08:00'
-draft = ture
+draft = false
 title = 'MyGo!!!!!'
 +++
 一整个晚上都沉浸在MyGo带来的情绪感染和震撼里，久久不能入睡。
