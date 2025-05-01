@@ -6,7 +6,6 @@ title = 'the first call'
 
 欢迎来到none blog
 
-这里记录着我对抗虚无的一些方式
 
 ![ ](/images/hole(1).png)
 
