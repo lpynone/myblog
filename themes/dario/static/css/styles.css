@@ -609,10 +609,11 @@ footer {
 }
 
 .small-img {
-  width: 70px;
+  width: 300px;
   height: auto;
+  display: block;
+  margin: 1em auto;
 }
-
 
 
 
