@@ -8,7 +8,7 @@ title = 'the first call'
 
 这里记录着我对抗虚无的一些方式
 
-<img src="/images/hole.png" alt=" " class="small-img">
+![ ](/images/hole.png){.small-img}
 
 
 
