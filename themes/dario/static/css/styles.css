@@ -608,7 +608,10 @@ footer {
   color: var(--focus-color);
 }
 
-
+.small-img {
+  width: 300px;
+  height: auto;
+}
 
 
 
