@@ -19,4 +19,4 @@ theme = "dario"
     [markup.goldmark.renderer]
       unsafe = true
     [markup.goldmark.parser]
-      attributes = true
+      attribute = true
